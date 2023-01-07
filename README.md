@@ -1,4 +1,4 @@
-# SearchCocktail
+# Ignite-Timer
 
 ![preview](./.github/home.jpeg)
 
