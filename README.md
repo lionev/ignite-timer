@@ -19,7 +19,7 @@
 
 ## ⚙️ Sobre o projeto
 
-- Foi feita uma aplicação no intuito de treinar as habilidades em um projeto novo junto as aulas da Rocketseat, sendo assim, produzido uma aplicação de pomodoro
+- Foi feita uma aplicação no intuito de treinar as habilidades em um projeto novo junto as aulas da Rocketseat, sendo assim, produzindo uma aplicação de pomodoro
 
 ## ❤️ Contato
 
